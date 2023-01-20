@@ -12,9 +12,6 @@
     <a href="https://beta.openai.com" target='_blank' color="white">
       Open API
     </a>
-  <span> ~||~ </span>    <a target='_blank' href="https://advice-generator-api-six.vercel.app/">
-      Live URL
-    </a>
   <span> ~||~ </span>    <a target='_blank' href="https://youtu.be/2FeymQoKvrk">
       Video Lesson
     </a>

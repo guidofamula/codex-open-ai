@@ -4,7 +4,8 @@ import cors from "cors";
 import { Configuration, OpenAIApi } from "openai";
 
 dotenv.config();
-const PORT = 8000;
+
+console.log(process.env.OPENAI_API_KEY);
 
 const configuration = new Configuration({
 	apiKey: process.env.OPENAI_API_KEY,
@@ -44,6 +45,6 @@ app.post("/", async (req, res) => {
 	}
 });
 
-app.listen(PORT, () =>
-	console.log(`Server is running on port http://localhost:${PORT}`)
+app.listen(5000, () =>
+	console.log("Server is running on port http://localhost:5000")
 );
