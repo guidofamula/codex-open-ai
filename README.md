@@ -1,6 +1,6 @@
 <h1 align="center">Codex Open AI API</h1>
 <div align='center'>
-<img src="./client/assets/screenshots/dekstop-version.png" ></img>
+<img src="./client/assets/screenshots/desktop-version.png" ></img>
 </div>
 
 <div align="center">
